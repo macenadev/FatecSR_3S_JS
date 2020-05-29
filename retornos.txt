@@ -1,0 +1,7 @@
+  //200 - get
+  //201 - post
+  //202 - put
+  //202 - delete
+  //404 - registro nao encontrado
+  //406 - parametro nao enviado
+  //500 - erro do servidor
